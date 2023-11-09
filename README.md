@@ -1,5 +1,5 @@
 # ThreeDigitGame
-C++ game that you have to put 3 numbers each round:
+C++ game that you have to put 3 numbers each round like:
 2
 5
 3
